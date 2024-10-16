@@ -9,3 +9,8 @@ DOMAIN-SUFFIX,secure.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror2.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror3.internetdownloadmanager.com
+DOMAIN-SUFFIX,miav-cse.avlyun.com
+DOMAIN-SUFFIX,a0.app.xiaomi.com
+DOMAIN-SUFFIX,miui-fxcse.avlyun.com
+DOMAIN-SUFFIX,api.installer.xiaomi.com
+IP-CIDR,157.148.47.204/24
