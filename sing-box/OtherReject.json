@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "www.tonec.com",
+        "www.tonec.com",
+        "registeridm.com",
+        "www.registeridm.com",
+        "secure.registeridm.com",
+        "internetdownloadmanager.com",
+        "www.internetdownloadmanager.com",
+        "secure.internetdownloadmanager.com",
+        "mirror.internetdownloadmanager.com",
+        "mirror2.internetdownloadmanager.com",
+        "mirror3.internetdownloadmanager.com",
+        "miav-cse.avlyun.com",
+        "a0.app.xiaomi.com",
+        "miui-fxcse.avlyun.com",
+        "api.installer.xiaomi.com"
+      ],
+      "ip_cidr": [
+        "157.148.47.204/32"
+      ]
+    }
+  ]
+}
