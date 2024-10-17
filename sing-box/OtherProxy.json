@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "google.com",
+        "xn--ngstr-cn-8za9o.com",
+        "xn--ngstr-lra8j.com",
+        "services.googleapis.cn",
+        "browserleaks.com"
+      ]
+    }
+  ]
+}
